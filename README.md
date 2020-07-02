@@ -30,7 +30,7 @@ The main supported operating system for ROS is Ubuntu. ROS contain a huge amount
   4- Environment setup:
   `echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc source ~/.bashrc`
   
-  ![Uploading MyInstallation.png…]()
+  ![Uploading MyInstallation.png…](MyInstallation.png)
   
   
   # 3- References:
